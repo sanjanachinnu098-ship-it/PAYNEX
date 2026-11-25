@@ -1,2 +1,4 @@
 # PAYNEX
-PayNex  –  AI-Powered Smart Payment &amp; Financial Management | HACKWARTS 
+
+PayNex  –  AI-Powered Smart Payment \& Financial Management | HACKWARTS sanjana
+
